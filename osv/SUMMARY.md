@@ -2,11 +2,11 @@
 
 Ett verk af växlande innehåll, späckadt med mångahanda kunskap och belyst dels med utländska exempel, dels med afbildningar af inhemska ting, tillika i hög grad ägnadt att roa och underhålla, lämnade säkerligen i läsarens håd en stor förnöjelse.
 
-* [Bok 2 - Om åkerbruk och lefnadsförhållanden](book-2/README.md)
-    * [Kapitel 1 - Om brinnande vatten](book-2/chapter-1.md)
-* [Bok 13 - Om åkerbruk och lefnadsförhållanden](book-13/README.md)
-    * [Kapitel 21 - Om viners varaktighet](book-13/chapter-21.md)
-    * [Kapitel 28 - Om olika sätt för ölbrygd](book-13/chapter-28.md)
+* [Om åkerbruk och lefnadsförhållanden](book-2/README.md)
+    * [Om brinnande vatten](book-2/chapter-1.md)
+* [Om åkerbruk och lefnadsförhållanden](book-13/README.md)
+    * [Om viners varaktighet](book-13/chapter-21.md)
+    * [Om olika sätt för ölbrygd](book-13/chapter-28.md)
 * [Om insekterna](book-22/README.md)
     * [Om spindlar](book-22/chapter-1.md)
     * [Om bromsar och gräshoppor](book-22/chapter-2.md)
