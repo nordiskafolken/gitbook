@@ -1,0 +1,15 @@
+# Ytterligare om olika slags maskar
+
+Om luftmaskarna är förut taladt, i denna boks 1. kapitel. Hit höra spindlarna, som ständigt äro i arbete, och som äfven om vintern uppsätta sitt nät såväl i boningshusen som i stall och ladugård. Där gömma sig äfven uppe under taket fjärilarna, på götiskt tungomål fädele (Faedele) kallade, insekter med många olika färger: röda, hvita, violetta och brokiga; och fångar man dem midt i kallaste vintern och släpper in dem i värmen, börja de strax flyga som andra flugor. Löfmaskarna innesluta sig i en liten säck, liknande det tätaste skal, hvari de sedan hela vintern hänga kvar med sitt yngel, till dess våren kommer med sin värme och de måste dö, för att i stället skänka lifvet åt sin afkomma. I trädens ved finnes trämasken (*Teredo*), så kallad emedan den gnager sönder (*terere*) och äter upp träet. Isidorus säger, att denna mask på latin kallas *Termes*. Den födes ur den skämda vätskan i träet, och när den kommer till, förtär den så småningom detta, och den fuktighet, det fått af naturen, försvinner. Denna mask alstras dock endast i en sådan trädstam, som icke blifvit fälld någon af de sista tre dagarna i månens nedan. Den finns icke i de torra trädstammarna i Indien, på grund af den därstädes rådande torkan; men i hela Europa förekommer den talrikt i allt slags trä, mera sällan dock i lind och ek. Om vintern lefver den i den torra märgen i ekar och stora lindar. Till klädesmaskarna hör malen (*Tinea*), hvilket namn kommer af *tenere* (hålla), emedan den håller sig kvar på ull och hår, ända till dess den alldeles gnagt sönder dem. Den alstras ur utdunstningen från unken ull, som den sedermera förtär; dock tycker den mest om sobel- och mårdskinn. Bland kött- och fläskmaskarna kan nämnas den ludna mask, som alstras i fläsk, när det börjar bli skämdt, och jämväl kan uppkomma i gammalt gåskött. Det finns också en hvit mask med svart hufvud, som alstras i tvegräddadt bröd. När jag vid hufvudstaden Stockholms belägring i två års tid var innesluten i denna fästning, fick jag smaka på sådant bröd med mask i, och jag åt det ganska gladeligen, jag som de andra. Till sist finns det ytterligare en mask, nämligen ostmasken, som man i fet ost får se spritta upp i en båge, och som icke fryser ihjäl, hur stark kölden än må vara. Hit höra äfven maskar, som likna solgranden och äro nästan odelbara och för sinnena omärkliga kroppar, hvilkas rörelse visserligen kan urskiljas i den oändliga mängden, likasom en viss täthet, men hvilkas verkliga form man har ytterst svårt att uppfatta. Men mask i egentlig mening är den, som alstras i skämdt kött, malen i kläder, larven i kål, trämasken i virke, köttmasken i fläsk. Ur döda människokroppars ryggmärg alstras, enligt Pythagoras, en orm, ur oxar bin, ur hästar bålgetingar.
+
+- Luftmaskar. 
+- Fädele, ett slags insekter. 
+- Löfmaskar 
+- Trämaskar
+- Inflytande af månens nedan. 
+- Klädesmaskar.
+- Köttmaskar.
+. Skorpmaskar. 
+- Ostmaskar. 
+- Mask i egentlig mening.
+- Ormar framfödas ur människans märg. 
