@@ -1,0 +1,8 @@
+# De cervisiæ decoctione vario modo
+
+![](../../img/chapter-28.svg)
+
+Præparatis, vt præmissum est, frugibus, diversæ nationes proprium & peculiarem modum retinent, aliter et aliter cervisiam conficiendi: quidam celerius, quidam tardius, quidam majori, quidam minori quantitate, vti etiam in vindemiantibus est vsitatum. In Aquilone caldaribus, & vasis vtuntur amplissimis: vna tamen miranda conditione inspecta, quod solis mulieribus cervisiam panesque coquendi, tanquam principalius officium, in toto Septentrionem, exceptis curiis Principum, ac procerum, & magnorum conventuum, est attributum. Fœminæ enim adeo munde fideliterque singula
+negotia sibi incumbentia tractant, vt nulla suspicio oboriatur, quod non omnia sint bene facta, etiam in præparantione ciborum, vt nedum patronis offerantur in esam, sed medicinalem præservationem. Magnam nanque experientiam habent cum arte conjunctam, quomodo hordeum fit præparandum, aut, aliæ fruges, quemque effectum & vim fit habiturum. Similiter & lupulus: qui nisi naturali calore suo per decoctionem sufficientem purgatus fuerit, non sanitatem generat, sed tormina ventris, & ægritudines nervis nocituras. Quando autem lupulus (hortensis dictus)
+sufficienter coctus creditur, tunc probatio capitur per exiguum manipulum culmorum: qui immissus in decoctionem, & extractus, secum viscositatem retinet cum amaritudine
+amarissima: & hinc emerget salubrius temperamentum in omnibus rebus dulcibus, humano potui profuturis.
