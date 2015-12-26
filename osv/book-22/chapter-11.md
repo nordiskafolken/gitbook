@@ -1,0 +1,10 @@
+# Om försiktighetsmått vid inköp af bin
+
+Med afseende på inköp af bin gäller det som regel, att man endast fulla kupor. Huruvida de verkligen äro fulla, kommer man underfund med genom att se in i dem, eller gifver det sig till känna genom det starka surret eller genom mängden af bin, som gå ut och in. Vid köpet lägger man också märke till, att bien skola vara små och flerfärgade samt korta, tjocka och runda, ty sådana arbeta flitigare och forma honungskakorna på ett finare sätt. Man köper dem hellre från grannskapet än från en aflägsen trakt, på det att de ej genom att flyttas till ett för dem ovant luftstreck må taga skada; ty det värsta fördärf för dem är ett hårdt och blåsigt klimat. Skola de föras bort till aflägsna orter, bär man dem nattetid på ryggen i väl tillslutna kupor, men bättre är att forsla dem på hjuldon, där marken är sank och jämn, enär femton till tjugu kupor åt gången bekvämligen rymmas på hvarje vagn. Så brukas det i Brabant och Flandern, hvarest kuporna vissa tider på sommaren flyttas till betesplatserna ute på fälten, att bien må få bättre näring, och där hela mängden af bin sedan släppes fri utan någon bevakning, ty strängt straff är stadgadt för den, eho det vara månde, som plundrar denna allmännyttiga egendom. Om än denne ej genom vittnesmål kan öfverbevisas om sin skuld, röjer han sig dock genast, när han söker afyttra något, som ej tillhör honom. Invid sin egen husvägg kan ju ägaren icke ha kuporna med bien under sin uppsikt, och bör det icke heller, såssom Palladius håller före (i 1. boken), enär tjänlig näring på det begränsade området där snarligen skulle tryta för den oändliga mängden af bin.
+
+- Hur bin böra köpas.
+- Korta och runda bin att föredra.
+- Ett hårdt klimat skadligt för bien.
+- Bien forslas på vagnar.
+- Bien lämnas utan uppsikt ute på fälten.
+- Bien kräfva stort område att söka sin näring på.
