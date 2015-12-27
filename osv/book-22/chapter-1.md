@@ -6,9 +6,9 @@ Först möter oss då spindlarnas mångskiftande släkte, hvars olika arter skil
 fvit sönderrifvet, eller lagar det gamla och är aldrig så ifrig i detta sitt arbete som just i gryningen. Platsen för nätets uppsättande väljer den med klok beräkning, ity att den med förkärlek spänner det högt uppe i vinklar och vrår, vid väggar eller träd. Formen lämpar den efter förhållandena, i det den vid trådarnas spinnande till ett nät gör detta antingen rundt, trekantigt eller aflångt. Tillvägagångssättet vid arbetet slutligen är likaledes omsorgsfullt, ty den stora spindeln drager med den ena bakfoten ut ur sin buk tråden, hvaraf den vill väfva sitt nät. En annan sorts spindel däremot hasplar ut ur sin mun tråden, hvaraf den sedan med ena framfoten tillverkar väfven och spänner ut den vidt och bredt. Ty likasom Herren, såsom Ambrosius säger i Hexameron (bok 5, kapitel 9), har förlänat kvinnan insikt i väfnadskonsten, så har Han icke heller låtit spindeln, som så fint och konstförfaret anbringar sitt slaka nät i dörröppningarna, vara utan en liknande insikt. Denna spindel ›lägger ger upp väfvar›, enligt hvad Plinius säger (bok 11, kapitel 24), ›och till det stora verket lämnar dess egen buk tillräckligt ämne, vare sig nu, såsom Democritus håller före, bukens beskaffenhet vissa tider blir så fördärfvad, eller där inne finnes en viss förmåga att alstra spånadsämne. Med hvilken noggrann het betjänar den sig ej då af fötterna, med hvilka runda och jämna trådar utför den ej sin väfnad och tjänar därvid sig själf som vikt! ›Om spindelns nät har äfven Paulus Diaconus en förträfflig skildring (bok 6, kapitel 4). 
 
 
-- Spindlarnas släkte mångskiftande 
+- Spindlarnas släkte mångskiftande.
 - Spindeln gör en luddig väf. 
-- Spindelhonan tillverkar våfven.
+- Spindelhonan tillverkar väfven.
 - Hannen jagar. 
 - Mångahanda olikheter spindlarna emellan.
 - Vid tillverkningen af väfven gifver spindeln akt på fem ting.
