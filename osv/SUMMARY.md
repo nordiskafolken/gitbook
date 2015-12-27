@@ -2,11 +2,16 @@
 
 Ett verk af växlande innehåll, späckadt med mångahanda kunskap och belyst dels med utländska exempel, dels med afbildningar af inhemska ting, tillika i hög grad ägnadt att roa och underhålla, lämnade säkerligen i läsarens håd en stor förnöjelse.
 
+* [Om lefnadsförhållandena, naturbeskaffenheten och krigsbruken hos de nordiska folken](book-1/README.md)
+    * [Om Bjarmaland, dess läge och beskaffenhet](book-1/chapter-1.md)
+    * [Om finnmarken och dess inbyggare](book-1/chapter-2.md)
 * [Om åkerbruk och lefnadsförhållanden](book-2/README.md)
     * [Om brinnande vatten](book-2/chapter-1.md)
 * [Om åkerbruk och lefnadsförhållanden](book-13/README.md)
+    * [Om bagarstugor och brödbakning](book-13/chapter-13.md)
     * [Om viners varaktighet](book-13/chapter-21.md)
     * [Om olika sätt för ölbrygd](book-13/chapter-28.md)
+    * [Om olika ölsorter och deras hälsokraft](book-13/chapter-29.md)
 * [Om insekterna](book-22/README.md)
     * [Om spindlar](book-22/chapter-1.md)
     * [Om bromsar och gräshoppor](book-22/chapter-2.md)
