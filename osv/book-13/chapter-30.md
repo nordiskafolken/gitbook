@@ -1,0 +1,9 @@
+# Om etiopernas eller indernas sätt att brygga öl, enligt beskrifing af den indiske prästen herr Johanness Baptista Habascianus
+
+Man tage vanligt osiktadt hvete- eller ock kornmjöl, ty däraf blir ölet bättre. Mjölet redes till deg, som syras, allt i öfverensstämmelse med spisbrödsbak. Sagda deg får stå i 10 dygn, innan den gräddas, men dagligen knådas den väl och beströs med litet mjöl ända till tionde dygnet, för att den må surna. Därefter utbakas degen till bröd, som gräddas i ugnen och sedan gräddas om igen. Då det torkat, brytes det i bitar, som läggas i en kruka, hvarefter litet mältadt korn strös ofvanpå. Den nämnda krukan fylles med vatten och tillslutes väl. Efter 3 dygn öppnar man den och sticker ned handen ända till bottnen, rör mycket väl om, bryter itu och mjukar upp de bitar af det tvegräddade brödet, som vattnet icke hunnit smälta. Sedan ilägges ofördröjligen, skuret i småbitar, kornbröd, som bakats samma dag, hvarefter ytterligare mältadt korn påfylles, mera än förra gången. Man måste dock vara noga med hänsyn till mått och ordning i förhållande till den åstundade ölmängden. I vidrigt fall blir ölet kärft och beskt till smaken. Är man åter alltför njugg med tillsatserna blir blir drycken smaklös och fadd. Det vill alltså beräkning till, ty därpå beror allt. När nu allt är blandadt, bör krukan åter tillslutas på 3 dygn. Därefter öppnas den, och innehållet silas sakta genom en linneduk. Sedan vätskan sålunda noga silats och renats från all drägg, hälles den upp i ett annat, väl rent kärl, och ölet är, om så önskas, färdigt att dricka samma dag, det är på fjärde dagen, ehuruväl svagt till smaken intill tjugonde dygnet.
+
+- Etiopernas sätt att brygga öl.
+- Mältadt korn.
+- Kornbröd.
+- När ölet blir smaklöst.
+- Ölets upphållning.
