@@ -1,0 +1,25 @@
+  
+# Om insekterna
+## Bok 22
+
+* [Om spindlar](chapter-1.md)
+* [Om bromsar och gräshoppor](chapter-2.md)
+* [Om skalbaggar, bålgetingar och vanliga getingar af två slag](chapter-3.md)
+* [Om de större getingarna](chapter-4.md)
+* [Om de besvärliga myggen i den yttersta Norden](chapter-5.md)
+* [Om olika sätt att fördrifva mygg och vägglös](chapter-6.md)
+* [Om blodiglar och olika slags maskar](chapter-7.md)
+* [Ytterligare om olika slags maskar](chapter-8.md)
+* [Om bien och deras olika näring](chapter-9.md)
+* [Hur man söker rätt på bien, när de flyger för högt](chapter-10.md)
+* [Om försiktighetsmått vid inköp av bin](chapter-11.md)
+* [Om förhållanden, som inverka menligt pâ bien](chapter-12.md)
+* [Om biens fiender](chapter-13.md)
+* [Om andra olägenheter för bien och medel att skydda dem](chapter-14.md)
+* [Om bin, som anfalla berusade personer](chapter-15.md)
+* [Om biens sysslor och förrättningar](chapter-16.md)
+* [Hur man skyddar bien under snö och is](chapter-17.md)
+* [Om biens fridlysning, fôr det gagn de göra, och om deras styrelsesätt](chapter-18.md)
+* [Om honungen och när den kan anses fullgod](chapter-19.md)
+* [Om myror](chapter-20.md)
+* [Om pärlor och hur de alstras](chapter-21.md)
