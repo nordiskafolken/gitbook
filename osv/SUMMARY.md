@@ -35,4 +35,3 @@ Ett verk af växlande innehåll, späckadt med mångahanda kunskap och belyst de
   * [Om honungen och när den kan anses fullgod](book-22/chapter-19.md)
   * [Om myror](book-22/chapter-20.md)
   * [Om pärlor och hur de alstras](book-22/chapter-21.md)
-  * [Verkets afslutning](book-22/chapter-22.md)
