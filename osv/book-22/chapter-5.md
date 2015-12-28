@@ -1,4 +1,4 @@
-# Om den besvärliga myggen i den yttersta Norden
+# Om de besvärliga myggen i den yttersta Norden
 
 ![](chapter-5.png)
 
