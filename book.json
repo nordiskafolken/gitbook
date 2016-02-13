@@ -4,5 +4,8 @@
     "ga": {
       "token": "UA-37815578-8"
     }
+  },
+  "variables": {
+    "host": "olaus.dokku.website"
   }
 }
