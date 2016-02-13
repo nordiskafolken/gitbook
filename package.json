@@ -1,0 +1,31 @@
+{
+  "name": "nordiska-folken",
+  "version": "0.0.1",
+  "description": "Historia om de Nordiska Folken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordiskafolken/gitbook.git"
+  },
+  "keywords": [
+    "nordiska",
+    "folken",
+    "olaus",
+    "magnus",
+    "svensk",
+    "historia",
+    "norden"
+  ],
+  "author": "Jeremy Karlsson <karlsson@jeremy.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nordiskafolken/gitbook/issues"
+  },
+  "homepage": "https://github.com/nordiskafolken/gitbook#readme",
+  "dependencies": {
+    "gitbook-cli": "^1.0.1"
+  }
+}
