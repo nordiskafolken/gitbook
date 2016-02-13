@@ -8,8 +8,8 @@ RUN npm install
 # Add your source files
 COPY . . 
 
+# Build app
+Run npm build
+
 # Start the app
 Run npm start
-
-# Open port 4000 for nginx in Dokku
-EXPOSE 4000

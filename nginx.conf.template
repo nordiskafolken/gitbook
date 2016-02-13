@@ -1,7 +1,0 @@
-server {
-  location / {
-    proxy_pass  http://$APP:4000;
-  }
-
-  include $DOKKU_ROOT/$APP/nginx.conf.d/*.conf;
-}
