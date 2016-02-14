@@ -3,6 +3,11 @@
   "pluginsConfig": {
     "ga": {
       "token": "UA-37815578-8"
+    },
+    "adsense": {
+    	"client": "ca-pub-9675050026743432",
+    	"slot": "4468077257",
+    	"format": "auto"
     }
   },
   "variables": {
